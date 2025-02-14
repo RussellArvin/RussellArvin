@@ -2,6 +2,7 @@
 
 I'm Russell, a Founding Software Engineer at Gignite.ai with a passion for building scalable cloud solutions. My journey in tech began at 16, when I discovered my love for coding by building websites and simple web applications. That early spark has evolved into a deep expertise in cloud architecture and full-stack development. Currently pursuing Computer Science at NTU (Year 2), I bring together strong academic foundations with hands-on industry experience. From those early days of crafting basic websites to now architecting complex cloud solutions, my passion for creating innovative software solutions has only grown stronger, driving me to continuously push the boundaries of what's possible in software engineering.
 
+![](https://komarev.com/ghpvc/?username=russellarvin)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/russellarvin) 
